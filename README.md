@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## #24 Component Hierarchy
+
+<img width="1123" alt="image" src="https://github.com/orgpark/next-js/assets/3348009/261233d9-66d4-4d07-a388-653f2850b96c">
+
 ## Getting Started
 
 First, run the development server:
